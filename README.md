@@ -86,7 +86,11 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Screenshot (30)](https://user-images.githubusercontent.com/118343610/214348395-02637076-9152-4613-bc2a-76dd0fca34e2.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/118343610/214348456-6cd0725d-c263-4c96-81bf-86ae7fddada5.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/118343610/214348520-397fe00d-cf9d-4f26-81cd-4137d687524d.png)
+
 
 
 ## RESULT
